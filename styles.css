@@ -90,7 +90,7 @@ ul{
     padding: 5vh;
     margin-bottom: 5vh;
     cursor: pointer;
-    background-image: url(calc-app-prev.png);
+    background-image: url(calc-app-2.png);
     background-position: center;
     background-size: cover;
     
@@ -121,7 +121,7 @@ ul{
     
     margin-bottom: 5vh;
     cursor: pointer;
-    background-image: url(rps-preview.png);
+    background-image: url(rps-2.png);
     background-position: center;
     background-size: cover;
     flex-grow: 2;
